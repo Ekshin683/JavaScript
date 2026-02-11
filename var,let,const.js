@@ -38,3 +38,7 @@ function f1(){
 }
 f1()
 console.log(a)
+//Employees employee = new Employees()
+firstName = "John"
+first_name = "John"
+FirstName = "John"
