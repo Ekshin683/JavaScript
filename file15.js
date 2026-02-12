@@ -16,7 +16,7 @@ const order = {
     ordervalue:455000,
     status:"pending"
 }
-db.orders.insertOne(order)
+// db.orders.insertOne(order)
 
 //create flipkart database 
 //create collection orders => email,items,ordervalue,status,orderDate
@@ -24,4 +24,6 @@ db.orders.insertOne(order)
 //insert seed data
 //write aggregate query to display all the orders
 //placed by a particular user
+
+
 
