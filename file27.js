@@ -29,10 +29,9 @@ switch(score){
     case 60:
         console.log("grade B+")
         break;
-    case 50:{
+    case 50:
         console.log("grade B")
         break;
-    }
     default:
         console.log("grade R")
 }
