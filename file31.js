@@ -8,4 +8,3 @@ const data = [...products];
 console.table(data);
 console.log("................................");
 console.log(footer);
-
