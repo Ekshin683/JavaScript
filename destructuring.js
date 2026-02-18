@@ -15,9 +15,8 @@
 // // console.log(n3);
 
 //default value
-const [n1, n2, n3=10,n4=20] = [12,15];
+const [n1, n2, n3=10] = [12,15];
 
 console.log(n1);
 console.log(n2);
 console.log(n3);
-console.log(n4);
