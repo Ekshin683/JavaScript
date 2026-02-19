@@ -1,7 +1,11 @@
 const cart = {
     items: [],
-    addItems:"",
-    showItems:"",
+    addItems: function(item){
+        this.items.push(item);
+    },
+    showItems: function(){
+        console.log(this.items);
+    }
 }
 
 cart.addItems("Laptop")
